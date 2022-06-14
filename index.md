@@ -2,3 +2,10 @@
 
 ## This is an <h2> header
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
